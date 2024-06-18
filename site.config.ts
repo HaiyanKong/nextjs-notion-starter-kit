@@ -43,7 +43,8 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/navi': '3b557d7ded3e4bfca78d78d1a6486781'},
+    '/navi': '3b557d7ded3e4bfca78d78d1a6486781',
+    '/work': '5f5d4b7971724176b2a4d22618b78f28'},
   // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
